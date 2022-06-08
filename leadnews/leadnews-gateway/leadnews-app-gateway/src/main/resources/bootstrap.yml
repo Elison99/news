@@ -10,3 +10,5 @@ spring:
         file-extension: yml
       discovery:
         server-addr: 192.168.200.130:8848
+  profiles:
+    active: prod
